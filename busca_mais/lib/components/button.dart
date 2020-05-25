@@ -15,12 +15,10 @@ class ButtonBase extends StatelessWidget{
           Expanded(
               child: Container(
                   height: 46,
-                  margin: EdgeInsets.all(10),
                   child: RaisedButton(
                       shape: RoundedRectangleBorder(
                         borderRadius: new BorderRadius.circular(10.0),
                       ),
-                      padding: EdgeInsets.all(10.0),
                       color: color,
                       child: Text(
                         text,

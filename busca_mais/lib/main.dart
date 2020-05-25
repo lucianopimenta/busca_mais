@@ -1,3 +1,5 @@
+import 'package:buscamais/helper/navigation.dart';
+import 'package:buscamais/pages/configuracoes.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -61,12 +63,6 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
           ),
-//          UserAccountsDrawerHeader(
-//            currentAccountPicture: CircleAvatar(
-//              backgroundImage: NetworkImage(
-//                  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqP85ZnOcRSCX3nlYdkCvSxhSuZs0bLt1He8EvGr5ne8c7mTqW"),
-//            ),
-//          ),
           ListTile(
             title: Text("Histórico"),
             subtitle: Text("Histórico de empresas visualizadas"),
@@ -79,6 +75,8 @@ class _MyHomePageState extends State<MyHomePage> {
             subtitle: Text("Configurações do aplicativo"),
             onTap: () {
               Navigator.pop(context);
+              openPage(context, ConfiguracoesPage(), replace: false); 
+              
             },
           ),
           ListTile(
