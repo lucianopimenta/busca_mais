@@ -1,6 +1,7 @@
 import 'package:buscamais/helper/navigation.dart';
 import 'package:buscamais/pages/configuracoes.dart';
 import 'package:flutter/material.dart';
+import 'package:buscamais/helper/extensions.dart';
 
 void main() {
   runApp(MyApp());
@@ -11,10 +12,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'BuscaMais',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
-
+        primaryColor: '#2196f3'.toColor(),
+        primaryColorDark: '#0d47a1'.toColor(),
+        accentColor: 'FF4081'.toColor(),
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: MyHomePage(title: 'Busca Mais'),
