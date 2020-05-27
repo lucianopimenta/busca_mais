@@ -1,0 +1,1796 @@
+[
+    {
+      "codigo": 6561,
+      "codigoPai": 6504,
+      "nome": "Academias",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/exercicio.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6524,
+      "codigoPai": 6498,
+      "nome": "Acessórios",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/automovel.png",
+      "filhos": [
+        {
+          "codigo": 6534,
+          "codigoPai": 6524,
+          "nome": "Som",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/automovel.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6535,
+          "codigoPai": 6524,
+          "nome": "Alarmes",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/automovel.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6589,
+      "codigoPai": 6574,
+      "nome": "Acessórios TI",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/cabo-usb.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6556,
+      "codigoPai": 6503,
+      "nome": "Acompanhantes",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/woman.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6595,
+      "codigoPai": 6506,
+      "nome": "Advogados",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/advogado.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6607,
+      "codigoPai": 6507,
+      "nome": "Agência de viagens",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/airplane.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6617,
+      "codigoPai": 6615,
+      "nome": "Agropecuaria",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/fazenda.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6600,
+      "codigoPai": 6506,
+      "nome": "Água/Gás",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/garrafa-de-agua.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6535,
+      "codigoPai": 6524,
+      "nome": "Alarmes",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/aprendizagem-profunda.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6497,
+      "codigoPai": null,
+      "nome": "Alimentos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png",
+      "filhos": [
+        {
+          "codigo": 6508,
+          "codigoPai": 6497,
+          "nome": "Super Mercado",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6509,
+          "codigoPai": 6497,
+          "nome": "Padaria",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6510,
+          "codigoPai": 6497,
+          "nome": "Casa de carnes",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6511,
+          "codigoPai": 6497,
+          "nome": "Restaurantes",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png",
+          "filhos": [
+            {
+              "codigo": 6517,
+              "codigoPai": 6511,
+              "nome": "Buffet",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png"
+            },
+            {
+              "codigo": 6518,
+              "codigoPai": 6511,
+              "nome": "Churrascaria",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png"
+            },
+            {
+              "codigo": 6519,
+              "codigoPai": 6511,
+              "nome": "Pizzaria",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png"
+            },
+            {
+              "codigo": 6520,
+              "codigoPai": 6511,
+              "nome": "Sushi",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png"
+            }
+          ]
+        },
+        {
+          "codigo": 6512,
+          "codigoPai": 6497,
+          "nome": "Salgados",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6513,
+          "codigoPai": 6497,
+          "nome": "Doces",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png",
+          "filhos": [
+            {
+              "codigo": 6521,
+              "codigoPai": 6513,
+              "nome": "Bolos/Doces",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png"
+            }
+          ]
+        },
+        {
+          "codigo": 6514,
+          "codigoPai": 6497,
+          "nome": "Cafeteria",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6515,
+          "codigoPai": 6497,
+          "nome": "Importação/Exportação",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6516,
+          "codigoPai": 6497,
+          "nome": "Bebidas",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png",
+          "filhos": [
+            {
+              "codigo": 6522,
+              "codigoPai": 6516,
+              "nome": "Distribuidora",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png"
+            },
+            {
+              "codigo": 6523,
+              "codigoPai": 6516,
+              "nome": "Gelo",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/colheita.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": 6525,
+      "codigoPai": 6498,
+      "nome": "Alinhamento/balanceamento",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/mudanca-de-marcha.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6538,
+      "codigoPai": 6536,
+      "nome": "Aluguel",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/custo.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6585,
+      "codigoPai": 6565,
+      "nome": "Aluguel Roupas",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/beleza.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6531,
+      "codigoPai": 6498,
+      "nome": "Aluguel veiculos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/periodo-de-ferias.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6563,
+      "codigoPai": 6504,
+      "nome": "Artigos Esportivos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/barbell.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6571,
+      "codigoPai": 6505,
+      "nome": "Artigos religiosos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/bible.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6526,
+      "codigoPai": 6498,
+      "nome": "Auto elétrica",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/analise.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6527,
+      "codigoPai": 6498,
+      "nome": "Auto escola",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/seguro.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6544,
+      "codigoPai": 6501,
+      "nome": "Ballet",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/ballet.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6555,
+      "codigoPai": 6503,
+      "nome": "Bares",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/bar.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6516,
+      "codigoPai": 6497,
+      "nome": "Bebidas",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/cocktail.png",
+      "filhos": [
+        {
+          "codigo": 6522,
+          "codigoPai": 6516,
+          "nome": "Distribuidora",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/cocktail.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6523,
+          "codigoPai": 6516,
+          "nome": "Gelo",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/cocktail.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6557,
+      "codigoPai": 6503,
+      "nome": "Boates",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/mirror-ball.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6521,
+      "codigoPai": 6513,
+      "nome": "Bolos/Doces",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/wedding-cake.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6528,
+      "codigoPai": 6498,
+      "nome": "Borracharia",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/pneu.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6572,
+      "codigoPai": 6505,
+      "nome": "Brinquedos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/lego.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6517,
+      "codigoPai": 6511,
+      "nome": "Buffet",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/order.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6592,
+      "codigoPai": 6506,
+      "nome": "Cabelereiro",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/bele.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6514,
+      "codigoPai": 6497,
+      "nome": "Cafeteria",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/sign.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6573,
+      "codigoPai": 6505,
+      "nome": "Calçados",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/sneakers.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6582,
+      "codigoPai": 6565,
+      "nome": "Cama/mesa/banho",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/quarto.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6498,
+      "codigoPai": null,
+      "nome": "Carros/Motos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+      "filhos": [
+        {
+          "codigo": 6524,
+          "codigoPai": 6498,
+          "nome": "Acessórios",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+          "filhos": [
+            {
+              "codigo": 6534,
+              "codigoPai": 6524,
+              "nome": "Som",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png"
+            },
+            {
+              "codigo": 6535,
+              "codigoPai": 6524,
+              "nome": "Alarmes",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png"
+            }
+          ]
+        },
+        {
+          "codigo": 6525,
+          "codigoPai": 6498,
+          "nome": "Alinhamento/balanceamento",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6531,
+          "codigoPai": 6498,
+          "nome": "Aluguel veiculos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6526,
+          "codigoPai": 6498,
+          "nome": "Auto elétrica",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6527,
+          "codigoPai": 6498,
+          "nome": "Auto escola",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6528,
+          "codigoPai": 6498,
+          "nome": "Borracharia",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6529,
+          "codigoPai": 6498,
+          "nome": "Mecânica Geral",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6530,
+          "codigoPai": 6498,
+          "nome": "Concessionária",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6532,
+          "codigoPai": 6498,
+          "nome": "Despachante",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6533,
+          "codigoPai": 6498,
+          "nome": "Peças",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/carro.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6510,
+      "codigoPai": 6497,
+      "nome": "Casa de carnes",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/cow.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6575,
+      "codigoPai": 6505,
+      "nome": "Celulares",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/emergency-call.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6518,
+      "codigoPai": 6511,
+      "nome": "Churrascaria",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/tenderloin.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6502,
+      "codigoPai": null,
+      "nome": "Clinicas",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+      "filhos": [
+        {
+          "codigo": 6545,
+          "codigoPai": 6502,
+          "nome": "Exames",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6546,
+          "codigoPai": 6502,
+          "nome": "Fisioterapia",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6547,
+          "codigoPai": 6502,
+          "nome": "Dermatologia",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6548,
+          "codigoPai": 6502,
+          "nome": "Olhos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6549,
+          "codigoPai": 6502,
+          "nome": "Psicologia",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6550,
+          "codigoPai": 6502,
+          "nome": "Terapia",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6551,
+          "codigoPai": 6502,
+          "nome": "Geral",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6552,
+          "codigoPai": 6502,
+          "nome": "Odontologia",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6553,
+          "codigoPai": 6502,
+          "nome": "Veterinária",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6554,
+          "codigoPai": 6502,
+          "nome": "Laboratório",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospitais.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6530,
+      "codigoPai": 6498,
+      "nome": "Concessionária",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/auto-conducao.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6586,
+      "codigoPai": 6569,
+      "nome": "Consertos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/configuracoes.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6613,
+      "codigoPai": null,
+      "nome": "Construção",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/caminhao-guindaste.png",
+      "filhos": [
+        {
+          "codigo": 6618,
+          "codigoPai": 6613,
+          "nome": "Engenharia/Arquitetura",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/caminhao-guindaste.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6614,
+      "codigoPai": 6506,
+      "nome": "Consultoria",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/mercado.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6593,
+      "codigoPai": 6506,
+      "nome": "Contador",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/despesas.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6616,
+      "codigoPai": 6615,
+      "nome": "Corretora de grãos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/plantar.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6576,
+      "codigoPai": 6505,
+      "nome": "Decoração",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/living-room.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6547,
+      "codigoPai": 6502,
+      "nome": "Dermatologia",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/pele.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6532,
+      "codigoPai": 6498,
+      "nome": "Despachante",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/entrega.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6591,
+      "codigoPai": 6506,
+      "nome": "Detetização",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/comercio-e-compras.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6522,
+      "codigoPai": 6516,
+      "nome": "Distribuidora",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/cerveja.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6503,
+      "codigoPai": null,
+      "nome": "Diversão/Festas",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/clube.png",
+      "filhos": [
+        {
+          "codigo": 6556,
+          "codigoPai": 6503,
+          "nome": "Acompanhantes",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/clube.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6555,
+          "codigoPai": 6503,
+          "nome": "Bares",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/clube.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6557,
+          "codigoPai": 6503,
+          "nome": "Boates",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/clube.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6558,
+          "codigoPai": 6503,
+          "nome": "Festas",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/clube.png",
+          "filhos": [
+            {
+              "codigo": 6559,
+              "codigoPai": 6558,
+              "nome": "Eventos",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/clube.png"
+            },
+            {
+              "codigo": 6560,
+              "codigoPai": 6558,
+              "nome": "Utilidades",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/clube.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": 6513,
+      "codigoPai": 6497,
+      "nome": "Doces",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/candy.png",
+      "filhos": [
+        {
+          "codigo": 6521,
+          "codigoPai": 6513,
+          "nome": "Bolos/Doces",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/candy.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6594,
+      "codigoPai": 6506,
+      "nome": "Eletricista",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/eletricista.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6569,
+      "codigoPai": 6505,
+      "nome": "Eletrodomésticos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/eletrodomesticos.png",
+      "filhos": [
+        {
+          "codigo": 6586,
+          "codigoPai": 6569,
+          "nome": "Consertos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/eletrodomesticos.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6587,
+          "codigoPai": 6569,
+          "nome": "Venda",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/eletrodomesticos.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6570,
+      "codigoPai": 6505,
+      "nome": "Eletrônicos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/plugue.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6618,
+      "codigoPai": 6613,
+      "nome": "Engenharia/Arquitetura",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/museu.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6501,
+      "codigoPai": null,
+      "nome": "Escolas",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/escolas.png",
+      "filhos": [
+        {
+          "codigo": 6544,
+          "codigoPai": 6501,
+          "nome": "Ballet",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/escolas.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6543,
+          "codigoPai": 6501,
+          "nome": "Idiomas",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/escolas.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6542,
+      "codigoPai": 6500,
+      "nome": "Escritório",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/escritorio.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6504,
+      "codigoPai": null,
+      "nome": "Esportes",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/bola-de-futebol.png",
+      "filhos": [
+        {
+          "codigo": 6561,
+          "codigoPai": 6504,
+          "nome": "Academias",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/bola-de-futebol.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6563,
+          "codigoPai": 6504,
+          "nome": "Artigos Esportivos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/bola-de-futebol.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6562,
+          "codigoPai": 6504,
+          "nome": "Material Esportivos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/bola-de-futebol.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6564,
+          "codigoPai": 6504,
+          "nome": "Quadras",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/bola-de-futebol.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6596,
+      "codigoPai": 6506,
+      "nome": "Estética",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/abdomen.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6559,
+      "codigoPai": 6558,
+      "nome": "Eventos",
+      "icone": null,
+      "filhos": []
+    },
+    {
+      "codigo": 6545,
+      "codigoPai": 6502,
+      "nome": "Exames",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/exame.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6608,
+      "codigoPai": 6507,
+      "nome": "Farmácia",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/remedio.png",
+      "filhos": [
+        {
+          "codigo": 6611,
+          "codigoPai": 6608,
+          "nome": "Medicamentos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/remedio.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6612,
+          "codigoPai": 6608,
+          "nome": "Manipulação",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/remedio.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6615,
+      "codigoPai": null,
+      "nome": "Fazenda",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/celeiro.png",
+      "filhos": [
+        {
+          "codigo": 6617,
+          "codigoPai": 6615,
+          "nome": "Agropecuaria",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/celeiro.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6616,
+          "codigoPai": 6615,
+          "nome": "Corretora de grãos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/celeiro.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6577,
+      "codigoPai": 6505,
+      "nome": "Ferragem",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/tecnico.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6558,
+      "codigoPai": 6503,
+      "nome": "Festas",
+      "icone": null,
+      "filhos": [
+        {
+          "codigo": 6559,
+          "codigoPai": 6558,
+          "nome": "Eventos",
+          "icone": null,
+          "filhos": []
+        },
+        {
+          "codigo": 6560,
+          "codigoPai": 6558,
+          "nome": "Utilidades",
+          "icone": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6597,
+      "codigoPai": 6506,
+      "nome": "Financiamento",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/aposentadoria.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6546,
+      "codigoPai": 6502,
+      "nome": "Fisioterapia",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/fisioterapia.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6578,
+      "codigoPai": 6505,
+      "nome": "Floricultura",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/vaso-de-flores.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6598,
+      "codigoPai": 6506,
+      "nome": "Fotografias",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/fotografo.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6599,
+      "codigoPai": 6506,
+      "nome": "Funerária",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/morte.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6523,
+      "codigoPai": 6516,
+      "nome": "Gelo",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/gelo.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6551,
+      "codigoPai": 6502,
+      "nome": "Geral",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hospital.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6601,
+      "codigoPai": 6506,
+      "nome": "Hidráulica",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/energia-hidraulica.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6609,
+      "codigoPai": 6507,
+      "nome": "Hotel",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/hotel.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6543,
+      "codigoPai": 6501,
+      "nome": "Idiomas",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/translation.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6536,
+      "codigoPai": 6499,
+      "nome": "Imobiliaria",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/familia.png",
+      "filhos": [
+        {
+          "codigo": 6538,
+          "codigoPai": 6536,
+          "nome": "Aluguel",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/familia.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6537,
+          "codigoPai": 6536,
+          "nome": "Venda",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/familia.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6499,
+      "codigoPai": null,
+      "nome": "Imóveis",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/property.png",
+      "filhos": [
+        {
+          "codigo": 6536,
+          "codigoPai": 6499,
+          "nome": "Imobiliaria",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/property.png",
+          "filhos": [
+            {
+              "codigo": 6538,
+              "codigoPai": 6536,
+              "nome": "Aluguel",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/property.png"
+            },
+            {
+              "codigo": 6537,
+              "codigoPai": 6536,
+              "nome": "Venda",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/property.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": 6515,
+      "codigoPai": 6497,
+      "nome": "Importação/Exportação",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/import.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6584,
+      "codigoPai": 6565,
+      "nome": "Infantil",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/roupas-de-bebe.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6574,
+      "codigoPai": 6505,
+      "nome": "Informática",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/armazenamento-do-servidor.png",
+      "filhos": [
+        {
+          "codigo": 6589,
+          "codigoPai": 6574,
+          "nome": "Acessórios TI",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/armazenamento-do-servidor.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6588,
+          "codigoPai": 6574,
+          "nome": "Internet",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/armazenamento-do-servidor.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6590,
+          "codigoPai": 6574,
+          "nome": "Softwares",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/armazenamento-do-servidor.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6588,
+      "codigoPai": 6574,
+      "nome": "Internet",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/elearning.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6583,
+      "codigoPai": 6565,
+      "nome": "Intíma",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/bikini.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6579,
+      "codigoPai": 6505,
+      "nome": "Jóias",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/safira.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6554,
+      "codigoPai": 6502,
+      "nome": "Laboratório",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/quimica.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6505,
+      "codigoPai": null,
+      "nome": "Lojas",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+      "filhos": [
+        {
+          "codigo": 6574,
+          "codigoPai": 6505,
+          "nome": "Informática",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": [
+            {
+              "codigo": 6589,
+              "codigoPai": 6574,
+              "nome": "Acessórios TI",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png"
+            },
+            {
+              "codigo": 6588,
+              "codigoPai": 6574,
+              "nome": "Internet",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png"
+            },
+            {
+              "codigo": 6590,
+              "codigoPai": 6574,
+              "nome": "Softwares",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png"
+            }
+          ]
+        },
+        {
+          "codigo": 6565,
+          "codigoPai": 6505,
+          "nome": "Roupas",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": [
+            {
+              "codigo": 6585,
+              "codigoPai": 6565,
+              "nome": "Aluguel Roupas",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png"
+            },
+            {
+              "codigo": 6582,
+              "codigoPai": 6565,
+              "nome": "Cama/mesa/banho",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png"
+            },
+            {
+              "codigo": 6584,
+              "codigoPai": 6565,
+              "nome": "Infantil",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png"
+            },
+            {
+              "codigo": 6583,
+              "codigoPai": 6565,
+              "nome": "Intíma",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png"
+            }
+          ]
+        },
+        {
+          "codigo": 6571,
+          "codigoPai": 6505,
+          "nome": "Artigos religiosos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6572,
+          "codigoPai": 6505,
+          "nome": "Brinquedos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6573,
+          "codigoPai": 6505,
+          "nome": "Calçados",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6575,
+          "codigoPai": 6505,
+          "nome": "Celulares",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6569,
+          "codigoPai": 6505,
+          "nome": "Eletrodomésticos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": [
+            {
+              "codigo": 6586,
+              "codigoPai": 6569,
+              "nome": "Consertos",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png"
+            },
+            {
+              "codigo": 6587,
+              "codigoPai": 6569,
+              "nome": "Venda",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png"
+            }
+          ]
+        },
+        {
+          "codigo": 6576,
+          "codigoPai": 6505,
+          "nome": "Decoração",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6570,
+          "codigoPai": 6505,
+          "nome": "Eletrônicos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6577,
+          "codigoPai": 6505,
+          "nome": "Ferragem",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6578,
+          "codigoPai": 6505,
+          "nome": "Floricultura",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6579,
+          "codigoPai": 6505,
+          "nome": "Jóias",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6566,
+          "codigoPai": 6505,
+          "nome": "Sex Shop",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6567,
+          "codigoPai": 6505,
+          "nome": "Uniformes",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6568,
+          "codigoPai": 6505,
+          "nome": "Tecidos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6580,
+          "codigoPai": 6505,
+          "nome": "Tintas",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6581,
+          "codigoPai": 6505,
+          "nome": "Variedades",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/shopping-cart.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6612,
+      "codigoPai": 6608,
+      "nome": "Manipulação",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/remed.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6602,
+      "codigoPai": 6506,
+      "nome": "Massagista",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/spa.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6562,
+      "codigoPai": 6504,
+      "nome": "Material Esportivos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/dumbbell.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6529,
+      "codigoPai": 6498,
+      "nome": "Mecânica Geral",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/construcao.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6611,
+      "codigoPai": 6608,
+      "nome": "Medicamentos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/cuidados-de-saude-e-medicos.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6610,
+      "codigoPai": 6507,
+      "nome": "Motel",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/sala.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6500,
+      "codigoPai": null,
+      "nome": "Móveis",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/office.png",
+      "filhos": [
+        {
+          "codigo": 6542,
+          "codigoPai": 6500,
+          "nome": "Escritório",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/office.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6539,
+          "codigoPai": 6500,
+          "nome": "Usados",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/office.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6540,
+          "codigoPai": 6500,
+          "nome": "Novos",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/office.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6541,
+          "codigoPai": 6500,
+          "nome": "Planejados",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/office.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6540,
+      "codigoPai": 6500,
+      "nome": "Novos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/mobilia.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6552,
+      "codigoPai": 6502,
+      "nome": "Odontologia",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/dentista.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6548,
+      "codigoPai": 6502,
+      "nome": "Olhos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/visibilidade.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6507,
+      "codigoPai": null,
+      "nome": "Outros",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/information.png",
+      "filhos": [
+        {
+          "codigo": 6607,
+          "codigoPai": 6507,
+          "nome": "Agência de viagens",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/information.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6608,
+          "codigoPai": 6507,
+          "nome": "Farmácia",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/information.png",
+          "filhos": [
+            {
+              "codigo": 6611,
+              "codigoPai": 6608,
+              "nome": "Medicamentos",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/information.png"
+            },
+            {
+              "codigo": 6612,
+              "codigoPai": 6608,
+              "nome": "Manipulação",
+              "icone": "http://13.59.75.47/BuscaMaisWeb/icone/information.png"
+            }
+          ]
+        },
+        {
+          "codigo": 6609,
+          "codigoPai": 6507,
+          "nome": "Hotel",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/information.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6610,
+          "codigoPai": 6507,
+          "nome": "Motel",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/information.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6509,
+      "codigoPai": 6497,
+      "nome": "Padaria",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/bread.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6533,
+      "codigoPai": 6498,
+      "nome": "Peças",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/reparar.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6604,
+      "codigoPai": 6506,
+      "nome": "Pet Shop",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/animai.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6519,
+      "codigoPai": 6511,
+      "nome": "Pizzaria",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/pizza.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6541,
+      "codigoPai": 6500,
+      "nome": "Planejados",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/moveis-e-utensilios-domesticos.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6549,
+      "codigoPai": 6502,
+      "nome": "Psicologia",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/cerebro.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6564,
+      "codigoPai": 6504,
+      "nome": "Quadras",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/stadium.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6605,
+      "codigoPai": 6506,
+      "nome": "Refrigeração",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/ar.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6511,
+      "codigoPai": 6497,
+      "nome": "Restaurantes",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/food-store.png",
+      "filhos": [
+        {
+          "codigo": 6517,
+          "codigoPai": 6511,
+          "nome": "Buffet",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/food-store.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6518,
+          "codigoPai": 6511,
+          "nome": "Churrascaria",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/food-store.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6519,
+          "codigoPai": 6511,
+          "nome": "Pizzaria",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/food-store.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6520,
+          "codigoPai": 6511,
+          "nome": "Sushi",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/food-store.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6565,
+      "codigoPai": 6505,
+      "nome": "Roupas",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/roupas.png",
+      "filhos": [
+        {
+          "codigo": 6585,
+          "codigoPai": 6565,
+          "nome": "Aluguel Roupas",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/roupas.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6582,
+          "codigoPai": 6565,
+          "nome": "Cama/mesa/banho",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/roupas.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6584,
+          "codigoPai": 6565,
+          "nome": "Infantil",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/roupas.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6583,
+          "codigoPai": 6565,
+          "nome": "Intíma",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/roupas.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6512,
+      "codigoPai": 6497,
+      "nome": "Salgados",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/meal.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6506,
+      "codigoPai": null,
+      "nome": "Serviços",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+      "filhos": [
+        {
+          "codigo": 6595,
+          "codigoPai": 6506,
+          "nome": "Advogados",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6600,
+          "codigoPai": 6506,
+          "nome": "Água/Gás",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6592,
+          "codigoPai": 6506,
+          "nome": "Cabelereiro",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6614,
+          "codigoPai": 6506,
+          "nome": "Consultoria",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6593,
+          "codigoPai": 6506,
+          "nome": "Contador",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6591,
+          "codigoPai": 6506,
+          "nome": "Detetização",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6594,
+          "codigoPai": 6506,
+          "nome": "Eletricista",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6596,
+          "codigoPai": 6506,
+          "nome": "Estética",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6597,
+          "codigoPai": 6506,
+          "nome": "Financiamento",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6598,
+          "codigoPai": 6506,
+          "nome": "Fotografias",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6599,
+          "codigoPai": 6506,
+          "nome": "Funerária",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6601,
+          "codigoPai": 6506,
+          "nome": "Hidráulica",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6602,
+          "codigoPai": 6506,
+          "nome": "Massagista",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6604,
+          "codigoPai": 6506,
+          "nome": "Pet Shop",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6605,
+          "codigoPai": 6506,
+          "nome": "Refrigeração",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6603,
+          "codigoPai": 6506,
+          "nome": "Táxi",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        },
+        {
+          "codigo": 6606,
+          "codigoPai": 6506,
+          "nome": "Vidraçaria",
+          "icone": "http://13.59.75.47/BuscaMaisWeb/icone/customer-service.png",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "codigo": 6566,
+      "codigoPai": 6505,
+      "nome": "Sex Shop",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/xxx.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6590,
+      "codigoPai": 6574,
+      "nome": "Softwares",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/estatisticas.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6534,
+      "codigoPai": 6524,
+      "nome": "Som",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/alto-falante.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6508,
+      "codigoPai": 6497,
+      "nome": "Super Mercado",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/grocery.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6520,
+      "codigoPai": 6511,
+      "nome": "Sushi",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/sushi.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6603,
+      "codigoPai": 6506,
+      "nome": "Táxi",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/taxi.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6568,
+      "codigoPai": 6505,
+      "nome": "Tecidos",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/tecido.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6550,
+      "codigoPai": 6502,
+      "nome": "Terapia",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/psicologia.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6580,
+      "codigoPai": 6505,
+      "nome": "Tintas",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/balde-de-tinta.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6567,
+      "codigoPai": 6505,
+      "nome": "Uniformes",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/uniforme.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6539,
+      "codigoPai": 6500,
+      "nome": "Usados",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/relogio-de-parede.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6560,
+      "codigoPai": 6558,
+      "nome": "Utilidades",
+      "icone": null,
+      "filhos": []
+    },
+    {
+      "codigo": 6581,
+      "codigoPai": 6505,
+      "nome": "Variedades",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/programador.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6537,
+      "codigoPai": 6536,
+      "nome": "Venda",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/pagamentos.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6587,
+      "codigoPai": 6569,
+      "nome": "Venda",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/aplicativo.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6553,
+      "codigoPai": 6502,
+      "nome": "Veterinária",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/animais-de-estimacao.png",
+      "filhos": []
+    },
+    {
+      "codigo": 6606,
+      "codigoPai": 6506,
+      "nome": "Vidraçaria",
+      "icone": "http://13.59.75.47/BuscaMaisWeb/icone/janela.png",
+      "filhos": []
+    }
+  ]
