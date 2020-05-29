@@ -10,7 +10,6 @@ class ConfiguracoesPage extends StatefulWidget {
 }
 
 class _ConfiguracoesPageState extends State<ConfiguracoesPage> {
-  bool showProgress = false;
   CidadeModel itemSelecionado;
   List<CidadeModel> cidades = <CidadeModel>[
     CidadeModel(1, 'Barreiras'),
@@ -20,7 +19,6 @@ class _ConfiguracoesPageState extends State<ConfiguracoesPage> {
   @override
   void initState() {
     super.initState();
-    showProgress = true;
     Load();
   }
 
@@ -43,7 +41,7 @@ class _ConfiguracoesPageState extends State<ConfiguracoesPage> {
         mainAxisAlignment: MainAxisAlignment.start,
         children: [
           Text('Cidade de prefêrencia:', style: TextStyle(fontSize: 16,),),
-          showProgress ? Center(child: CircularProgressIndicator(),) : criaDropDownButton(),
+          criaDropDownButton(),
           Expanded(
             child: Container(
               alignment: Alignment.bottomCenter,
@@ -89,7 +87,6 @@ class _ConfiguracoesPageState extends State<ConfiguracoesPage> {
       if (value > 0)
 
         setState(() {
-          showProgress = false;
           itemSelecionado = cidades.singleWhere((x) => x.codigo == value, orElse: () => null);
         })
     });

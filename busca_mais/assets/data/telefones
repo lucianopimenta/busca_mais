@@ -1,0 +1,394 @@
+[
+  {
+    "codigo": 36,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": " Ponto do Cidadão-Sine",
+    "numero": "3628-9509"
+  },
+  {
+    "codigo": 7,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Abapa/Ebda",
+    "numero": "3628-4462"
+  },
+  {
+    "codigo": 50,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Acelem",
+    "numero": "3628-3548"
+  },
+  {
+    "codigo": 51,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "ADAB",
+    "numero": "3628-5117"
+  },
+  {
+    "codigo": 38,
+    "codigoCidade": 1,
+    "cidade": "Barreiras",
+    "descricao": "Aeroporto",
+    "numero": "91983747"
+  },
+  {
+    "codigo": 8,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Aiba",
+    "numero": "3628-1000"
+  },
+  {
+    "codigo": 12,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Banco Bradesco Ag 2077",
+    "numero": "3628-8400"
+  },
+  {
+    "codigo": 49,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Banco Bradesco AG 3082",
+    "numero": "3628-4294"
+  },
+  {
+    "codigo": 9,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Banco do Bradesco AG 2482",
+    "numero": "3628-6700"
+  },
+  {
+    "codigo": 10,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Banco do Brasil AG 2997",
+    "numero": "3628-1414"
+  },
+  {
+    "codigo": 11,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Banco do Brasil AG 4624",
+    "numero": "3628-0126"
+  },
+  {
+    "codigo": 14,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Banco do Nordeste",
+    "numero": "3628-4482"
+  },
+  {
+    "codigo": 52,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Banco do nordeste ",
+    "numero": "3639-2300"
+  },
+  {
+    "codigo": 13,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Banco Itau",
+    "numero": "3628-5188"
+  },
+  {
+    "codigo": 53,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Banco santader ",
+    "numero": "2122-1950"
+  },
+  {
+    "codigo": 15,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Banco Sicred",
+    "numero": "3628-5592"
+  },
+  {
+    "codigo": 16,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Caixa Econômica Federal",
+    "numero": "3639-1700"
+  },
+  {
+    "codigo": 17,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Câmara Municipal",
+    "numero": "3628-8900"
+  },
+  {
+    "codigo": 54,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Cartorio de Notas e Títulos",
+    "numero": "3628-1979"
+  },
+  {
+    "codigo": 18,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Cartório de Registro",
+    "numero": "3628-2810"
+  },
+  {
+    "codigo": 55,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Cartorio de Registro de Imoveis ",
+    "numero": "3639-8054"
+  },
+  {
+    "codigo": 19,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Cartório Eleitoral",
+    "numero": "3639-0732"
+  },
+  {
+    "codigo": 57,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Cartório Postal",
+    "numero": "3628-6409"
+  },
+  {
+    "codigo": 56,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "CDL",
+    "numero": "999718911"
+  },
+  {
+    "codigo": 20,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Cipe - Cerrado",
+    "numero": "3628-6315"
+  },
+  {
+    "codigo": 21,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Coelba",
+    "numero": "3628-1123"
+  },
+  {
+    "codigo": 22,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Conselho Tutelar",
+    "numero": "3628-1293"
+  },
+  {
+    "codigo": 58,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Corpo de bombeiro",
+    "numero": "193"
+  },
+  {
+    "codigo": 23,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Correios ",
+    "numero": "3628-4720"
+  },
+  {
+    "codigo": 24,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Correios II",
+    "numero": "3628-3530"
+  },
+  {
+    "codigo": 39,
+    "codigoCidade": 1,
+    "cidade": "Barreiras",
+    "descricao": "Detran ",
+    "numero": "3613-9800"
+  },
+  {
+    "codigo": 40,
+    "codigoCidade": 1,
+    "cidade": "Barreiras",
+    "descricao": "Detran - Sac",
+    "numero": "3611-6824"
+  },
+  {
+    "codigo": 26,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Embasa",
+    "numero": "3628-2445"
+  },
+  {
+    "codigo": 27,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Fórum",
+    "numero": "3628-8200"
+  },
+  {
+    "codigo": 59,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Funerária Pafir",
+    "numero": "3628-6963"
+  },
+  {
+    "codigo": 60,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Funerária Santa clara ",
+    "numero": "3628-2171"
+  },
+  {
+    "codigo": 61,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Guarda Municipal",
+    "numero": "3628-3862"
+  },
+  {
+    "codigo": 25,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Junta Militar",
+    "numero": "3628-2765"
+  },
+  {
+    "codigo": 28,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Polícia Militar",
+    "numero": "3628-3471"
+  },
+  {
+    "codigo": 41,
+    "codigoCidade": 1,
+    "cidade": "Barreiras",
+    "descricao": "Polícia Rodoviaria",
+    "numero": "3611-4330"
+  },
+  {
+    "codigo": 65,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Policlínica Municipal",
+    "numero": "3628-1903"
+  },
+  {
+    "codigo": 66,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Prefeitura Municipal",
+    "numero": "3628-9000"
+  },
+  {
+    "codigo": 29,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Prefeitura Municipal",
+    "numero": "3628-9000"
+  },
+  {
+    "codigo": 63,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Pronto socorro",
+    "numero": "3628-1505"
+  },
+  {
+    "codigo": 30,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Rádio Cultura",
+    "numero": "3628-4023"
+  },
+  {
+    "codigo": 42,
+    "codigoCidade": 1,
+    "cidade": "Barreiras",
+    "descricao": "Receita Federal",
+    "numero": "3611-4803"
+  },
+  {
+    "codigo": 31,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Retran",
+    "numero": "3628-0173"
+  },
+  {
+    "codigo": 64,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Rodoviária(táxi)",
+    "numero": "3628-2190"
+  },
+  {
+    "codigo": 43,
+    "codigoCidade": 1,
+    "cidade": "Barreiras",
+    "descricao": "Sac",
+    "numero": "3611-8240"
+  },
+  {
+    "codigo": 32,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Samu",
+    "numero": "192"
+  },
+  {
+    "codigo": 33,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Senai",
+    "numero": "3628-4670"
+  },
+  {
+    "codigo": 34,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Sindicato Produtores Rurais",
+    "numero": "3628-2777"
+  },
+  {
+    "codigo": 35,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Sindicato Trabalhadores Rurais",
+    "numero": "3628-5170"
+  },
+  {
+    "codigo": 44,
+    "codigoCidade": 1,
+    "cidade": "Barreiras",
+    "descricao": "Sine Bahia",
+    "numero": "3611-1102"
+  },
+  {
+    "codigo": 62,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "Sutrans",
+    "numero": "3628-0689"
+  },
+  {
+    "codigo": 37,
+    "codigoCidade": 2,
+    "cidade": "Luís Eduardo Magalhães",
+    "descricao": "UPA - Unidade de pronto atendimento de Lem",
+    "numero": "3628-5885"
+  }
+]

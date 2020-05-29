@@ -5,6 +5,7 @@ import 'package:buscamais/model/categoriaModel.dart';
 import 'package:buscamais/model/cidadeModel.dart';
 import 'package:buscamais/model/favoritoModel.dart';
 import 'package:buscamais/pages/configuracoes.dart';
+import 'package:buscamais/pages/telefonesuteis.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:dynamic_treeview/dynamic_treeview.dart';
 import 'package:flutter/material.dart';
@@ -73,23 +74,25 @@ class _MyHomePageState extends State<MyHomePage> {
       drawer: Drawer(
         child: _drawer(),
       ),
-      body: Container(
-        padding: EdgeInsets.all(16),
-        child: Column(
-            mainAxisAlignment: MainAxisAlignment.start,
-            crossAxisAlignment: CrossAxisAlignment.stretch,
-            children: <Widget>[
-              busca(),
-              cidade(),
-              ButtonPrimary("Busca", () => print('Busca pelo texto e cidade')),
-              SizedBox(height: 16,),
-              Text('Busca pela categoria'),
-              treeViewCategorias(),
-              ButtonPrimary("Busca por Categoria", () => print('Busca pelo texto e cidade')),
-              SizedBox(height: 16,),
-              favoritos(),
-            ],
-          ),
+      body: SingleChildScrollView(
+        child: Container(
+          padding: EdgeInsets.all(16),
+          child: Column(
+              mainAxisAlignment: MainAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: <Widget>[
+                busca(),
+                cidade(),
+                ButtonPrimary("Busca", () => print('Busca pelo texto e cidade')),
+                SizedBox(height: 16,),
+                Text('Busca pela categoria'),
+                treeViewCategorias(),
+                ButtonPrimary("Busca por Categoria", () => print('Busca pelo texto e cidade')),
+                SizedBox(height: 16,),
+                favoritos(),
+              ],
+            ),
+        ),
       ),
     );
   }
@@ -112,6 +115,14 @@ class _MyHomePageState extends State<MyHomePage> {
             subtitle: Text("Histórico de empresas visualizadas"),
             onTap: () {
               Navigator.pop(context);
+            },
+          ),
+          ListTile(
+            title: Text("Telefones úteis"),
+            subtitle: Text("Telefones úteis por cidade"),
+            onTap: () {
+              Navigator.pop(context);
+              openPage(context, TelefoneUtil(), replace: false);
             },
           ),
           ListTile(
